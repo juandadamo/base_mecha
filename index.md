@@ -31,7 +31,7 @@ layout: default
   <p>Bienvenido al mundo de los Mecha</p>
   
   <div>
-    <a href="Historia/">📖 Historia</a>
+    <a href="Historia/index.md">📖 Historia</a>
     <a href="#">⚡ Personajes</a>
     <a href="#">🦾 Mechas</a>
     <a href="#">🎮 Juegos</a>
