@@ -4,7 +4,7 @@ layout: default
 
 <style>
   body {
-    background: url('fondo.jpg') no-repeat center center fixed;
+    background: url('imagenes/mazinger-z.jpg') no-repeat center center fixed;
     background-size: cover;
     margin: 0;
     padding: 20px;
