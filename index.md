@@ -35,6 +35,6 @@ layout: default
     <a href="#">⚡ Personajes</a>
     <a href="#">🦾 Mechas</a>
     <a href="#">🎮 Juegos</a>
-    <a href="libro/libros_mecha.pdf">📖 LIBRO!!</a>
+    <a href="libro/libro_mechas.pdf">📖 LIBRO!!</a>
   </div>
 </div>
