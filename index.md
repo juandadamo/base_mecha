@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<link rel="icon" type="image/x-icon" href="imagenes/mazinger_z.ico">
+<link rel="icon" type="image/x-icon" href="imagenes/mazinger_z_icono.png">
 <style>
   body {
     background: url('imagenes/mazinger-z.jpg') no-repeat center center fixed;
