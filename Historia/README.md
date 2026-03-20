@@ -1,1 +1,3 @@
+<link rel="icon" type="image/x-icon" href="imagenes/mazinger_z_icono.png">
+
 Mazinger Z fue creado por el Dr. Juzo Kabuto...
